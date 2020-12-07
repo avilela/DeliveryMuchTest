@@ -145,4 +145,7 @@ dmypy.json
 # Behave reports
 reports/
 
+# behave rerun
+rerun*
+
 # End of https://www.toptal.com/developers/gitignore/api/python
