@@ -32,7 +32,7 @@ Funcionalidade: Requisição de Números por Escrito
 
   Esquema do Cenário: Validar que resposta da requisição de GET está conforme esperado em <language>
     Dado que faço uma requisição do tipo "get" para "http://challengeqa.staging.devmuch.io" para obter o número "1000" em "<language>"
-    Então a resposta de deverá conter a chave: "extenso"
+    Então a resposta de deverá conter a chave: "<key>"
 
   Exemplos: 
     | key     | language  |
