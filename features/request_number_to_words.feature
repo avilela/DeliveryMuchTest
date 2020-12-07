@@ -47,6 +47,7 @@ Funcionalidade: Requisição de Números por Escrito
   Exemplos: 
     | language  | number |
     | português | 0      |
+    | português | 500    |
     | português | 1000   |
     | português | 1500   |
     | português | 2000   |
@@ -66,6 +67,7 @@ Funcionalidade: Requisição de Números por Escrito
     | português | 9000   |
     | português | 9500   |
     | português | 10000  |
+    | português | -500   |
     | português | -1000  |
     | português | -1500  |
     | português | -2000  |
@@ -86,6 +88,7 @@ Funcionalidade: Requisição de Números por Escrito
     | português | -9500  |
     | português | -10000 |
     | inglês    | 0      |
+    | inglês    | 500    |
     | inglês    | 1000   |
     | inglês    | 1500   |
     | inglês    | 2000   |
@@ -105,6 +108,7 @@ Funcionalidade: Requisição de Números por Escrito
     | inglês    | 9000   |
     | inglês    | 9500   |
     | inglês    | 10000  |
+    | inglês    | -500   |
     | inglês    | -1000  |
     | inglês    | -1500  |
     | inglês    | -2000  |
